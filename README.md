@@ -2,8 +2,8 @@
 
 > Un outil web pour générer automatiquement la structure complète de tes projets de développement, optimisé pour les cerveaux TDAH.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![TDAH Friendly](https://img.shields.io/badge/TDAH-Friendly-00ff88)](https://github.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=plastic)](https://opensource.org/licenses/MIT)
+[![TDAH Friendly](https://img.shields.io/badge/TDAH-Friendly-00ff88?style=plastic)](https://github.com)
 
 ## 🎯 Pourquoi cet outil ?
 
